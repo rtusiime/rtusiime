@@ -3,9 +3,9 @@
 <h3 align="center">Just a dude that gets a kick out of building products people LOVE</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-- 🌱 I’m currently learning **Deep Learning and its Applications**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android, Product Management, Technical Interview prep**
+- 💬 Ask me about **Android, Web Development, Product Management, Technical Interview prep**
 
 - ⚡ Fun fact **my name is a palindrome.**
 
